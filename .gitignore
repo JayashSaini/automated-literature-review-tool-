@@ -1,0 +1,35 @@
+# Byte-compiled / cached files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+*.venv
+*.env
+
+# Environment variables
+.env
+*.env
+config.py
+
+# IDE files
+.vscode/
+.idea/
+*.sublime-workspace
+
+# Logs and databases
+*.log
+*.sqlite3
+instance/
+*.db
+
+# Compiled files
+*.so
+*.dll
+*.dylib
+
+# MacOS & Linux
+.DS_Store
+*.swp
